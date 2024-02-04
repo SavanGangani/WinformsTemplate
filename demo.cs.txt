@@ -1,0 +1,11 @@
+namespace WinformsDemo;
+
+public partial class CRUDdemo : Form
+{
+    public CRUDdemo()
+    {
+        InitializeComponent();
+        // this.BackColor = Color.Gray;
+    }
+
+}
